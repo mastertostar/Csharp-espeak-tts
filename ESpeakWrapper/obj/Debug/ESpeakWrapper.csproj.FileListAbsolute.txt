@@ -1,0 +1,5 @@
+D:\testsound\espeak-ng-wrapper\ESpeakWrapper\bin\Debug\ESpeakWrapper.dll
+D:\testsound\espeak-ng-wrapper\ESpeakWrapper\bin\Debug\ESpeakWrapper.pdb
+D:\testsound\espeak-ng-wrapper\ESpeakWrapper\obj\Debug\ESpeakWrapper.csproj.CoreCompileInputs.cache
+D:\testsound\espeak-ng-wrapper\ESpeakWrapper\obj\Debug\ESpeakWrapper.dll
+D:\testsound\espeak-ng-wrapper\ESpeakWrapper\obj\Debug\ESpeakWrapper.pdb

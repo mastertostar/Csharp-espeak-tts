@@ -1,0 +1,1 @@
+D:\chromdown\espeak-1.48.04-source\platforms\windows\windows_dll\x64\Debug\espeak.pdb

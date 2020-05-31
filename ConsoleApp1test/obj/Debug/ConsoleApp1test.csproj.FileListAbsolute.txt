@@ -1,0 +1,10 @@
+D:\testsound\espeak-ng-wrapper\ConsoleApp1test\obj\Debug\ConsoleApp1test.csprojAssemblyReference.cache
+D:\testsound\espeak-ng-wrapper\ConsoleApp1test\obj\Debug\ConsoleApp1test.csproj.CoreCompileInputs.cache
+D:\testsound\espeak-ng-wrapper\ConsoleApp1test\bin\Debug\ConsoleApp1test.exe.config
+D:\testsound\espeak-ng-wrapper\ConsoleApp1test\bin\Debug\ConsoleApp1test.exe
+D:\testsound\espeak-ng-wrapper\ConsoleApp1test\bin\Debug\ConsoleApp1test.pdb
+D:\testsound\espeak-ng-wrapper\ConsoleApp1test\bin\Debug\ESpeakWrapper.dll
+D:\testsound\espeak-ng-wrapper\ConsoleApp1test\bin\Debug\ESpeakWrapper.pdb
+D:\testsound\espeak-ng-wrapper\ConsoleApp1test\obj\Debug\ConsoleApp1test.csproj.CopyComplete
+D:\testsound\espeak-ng-wrapper\ConsoleApp1test\obj\Debug\ConsoleApp1test.exe
+D:\testsound\espeak-ng-wrapper\ConsoleApp1test\obj\Debug\ConsoleApp1test.pdb
